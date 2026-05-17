@@ -29,18 +29,16 @@ I’m a self-taught developer from Arba Minch, Ethiopia with a habit of getting 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-**Currently exploring:**
+**Going Deeper In To:**
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-darkred?style=flat-square&logo=hackthebox&logoColor=white)
-![Steganography](https://img.shields.io/badge/Steganography-222222?style=flat-square&logo=gnuprivacyguard&logoColor=white)
 
 
 ## 🌱 What I'm Currently Up To
 
 - 🔧 **Implementing** Odoo ERP solutions for real-world business needs
 - 🌐 **Building** frontend interfaces with HTML, CSS, and JavaScript
-- 🔐 **Going deeper** into cybersecurity — tools, concepts, and hands-on practice
-- 📖 **Learning** more about ethical hacking and digital forensics
+- 🔐 **Going deeper** into cybersecurity tools, concepts, and hands-on practice
 
 
 ## A Few Things About Me
