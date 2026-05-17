@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Amanuel 👋
+# Hey, I'm Amanuel 🙂
 
 **Frontend Developer · Odoo ERP Implementer · Cybersecurity Enthusiast**
 
@@ -10,7 +10,7 @@
 
 
 ## About Me
-I’m a self-taught developer from Arba Minch, Ethiopia with a habit of getting deeply interested in how things work. I work mostly with frontend development and Odoo ERP systems, but I also spend a lot of time exploring cybersecurity and security-related projects. I like practical work, building things, testing ideas, breaking them, improving them, and understanding what’s happening underneath instead of just making things look functional.
+I’m a self-taught developer from Mekelle, Ethiopia with a habit of getting deeply interested in how things work. I work mostly with frontend development and Odoo ERP systems, but I also spend a lot of time exploring cybersecurity and security-related projects. I like practical work, building things, testing ideas, breaking them, improving them, and understanding what’s happening underneath instead of just making things look functional.
 
 
 ## 🛠️ Tech & Tools
@@ -43,22 +43,12 @@ I’m a self-taught developer from Arba Minch, Ethiopia with a habit of getting 
 
 ## A Few Things About Me
 
-- 🇪🇹 Based in Arba Minch, Ethiopia
+- 🇪🇹 Based in Mekelle, Ethiopia
 - 🧠 Self-taught driven by curiosity, not a syllabus
 - ☕ coffee is a personality trait at this point
 - 🎮 Gamer when the brain needs a break
 - 🎵 Music is the other thing I take way too seriously
 - 📚 Books usually end up sending me down random rabbit holes
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=man-of-culturee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=man-of-culturee&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 
 ## 📫 Let's Connect
