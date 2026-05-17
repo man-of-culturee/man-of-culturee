@@ -44,10 +44,10 @@ I’m a self-taught developer from Mekelle, Ethiopia with a habit of getting dee
 ## A Few Things About Me
 
 - 🇪🇹 Based in Mekelle, Ethiopia
-- 🧠 Self-taught driven by curiosity, not a syllabus
-- ☕ coffee is a personality trait at this point
+- 🧠 Self taught, driven by curiosity, not a syllabus
+- ☕ No coffee, no productivity! 
 - 🎮 Gamer when the brain needs a break
-- 🎵 Music is the other thing I take way too seriously
+- 🎵 Music is peak fuel for everything
 - 📚 Books usually end up sending me down random rabbit holes
 
 
