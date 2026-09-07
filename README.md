@@ -53,7 +53,7 @@ I’m a self-taught developer from Mekelle, Ethiopia with a habit of getting dee
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanuel-ashenafi-766772286)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanuel-ashenafi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B46%2FzjDCpQTSrV3w9oJyKqw%3D%3D)
 
 
 <div align="center">
